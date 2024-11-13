@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db96dc9252ea6c47a90f7d9f1b1976e, type: 3}
+  m_Name: New Item Config
+  m_EditorClassIdentifier: 
+  _objects:
+  - Name: "\u041D\u0430\u0447\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u043E\u0437\u0438\u0446\u0430\u044F"
+    gameObject: {fileID: 2846855384937999389, guid: 0254e03ac708afc42a51def312a4d861, type: 3}
+    Price: 0
+  - Name: "\u041B\u0430\u0441\u0442\u0438\u043A"
+    gameObject: {fileID: 5633936291555372615, guid: 9476e15f1d34cdc43a5be141763ddfbe, type: 3}
+    Price: 0
+  - Name: "\u0421\u0432\u0435\u0442\u043E\u0444\u043E\u0440 1"
+    gameObject: {fileID: 2556832920661030458, guid: fc935772930bcc64d91a1ee67a0b20b1, type: 3}
+    Price: 50000
+  - Name: "\u0421\u0432\u0435\u0442\u043E\u0444\u043E\u0440 2"
+    gameObject: {fileID: 8018173918294057489, guid: 7bbd0d12678fca44aad2053bbae25343, type: 3}
+    Price: 50000
+  - Name: "\u0421\u0432\u0435\u0442\u043E\u0444\u043E\u0440 3"
+    gameObject: {fileID: 8352191672396913448, guid: d83317bb171f76e4c9b76b89bfb3e464, type: 3}
+    Price: 50000
+  - Name: "\u0413\u043B\u0430\u0432\u043D\u0430\u044F \u0434\u043E\u0440\u043E\u0433\u0430"
+    gameObject: {fileID: 5186430215911418364, guid: 774641e34dc433941be3abf6ccf6a896, type: 3}
+    Price: 1000
+  - Name: "\u041E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u0438\u0435 \u043F\u043E
+      \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u0438"
+    gameObject: {fileID: 2936826825006890098, guid: 08201d0e55ce09c44b595adb5971cfa6, type: 3}
+    Price: 1000
+  - Name: Freeway Cross Freeway
+    gameObject: {fileID: 7583640838721958329, guid: 0dd27af34bb331f4d8e4b759b97339de, type: 3}
+    Price: 200000
+  - Name: Freeway Cross Freeway 1
+    gameObject: {fileID: 7583640838721958329, guid: 8c1f77b783187c6469d1af6fee1e4d85, type: 3}
+    Price: 200000
+  - Name: Freeway Cross Freeway 1
+    gameObject: {fileID: 7583640838721958329, guid: 8c1f77b783187c6469d1af6fee1e4d85, type: 3}
+    Price: 200000
+  - Name: Freeway Cross Road
+    gameObject: {fileID: 3998022937170806200, guid: ef488425da1a6c740a3b7a6880f8066d, type: 3}
+    Price: 200000
+  - Name: Freeway Cross Road 1
+    gameObject: {fileID: 3998022937170806200, guid: 865c7a0748468d647b3f47018f7501b6, type: 3}
+    Price: 200000
+  - Name: Freeway Curve 1
+    gameObject: {fileID: 2688544334794874123, guid: 02a44141cfa289a49b5c7e7dae52b92c, type: 3}
+    Price: 200000
+  - Name: Freeway Curve 2
+    gameObject: {fileID: 3078812758333891098, guid: 0cdf98a6b1f653041958ccb25af2bb14, type: 3}
+    Price: 200000
+  - Name: Freeway Join Freeway 1
+    gameObject: {fileID: 8978059783858744997, guid: 0d8167751b75feb448f5535dcce52255, type: 3}
+    Price: 250000
+  - Name: Freeway Join Freeway 2
+    gameObject: {fileID: 1892417206857282435, guid: 5b62ab4f65e6e0049a74d7f9f03f408b, type: 3}
+    Price: 300000
+  - Name: Freeway Join Freeway 3
+    gameObject: {fileID: 8978059783858744997, guid: 79bac0caf17da8d41ae6304448a54e7b, type: 3}
+    Price: 300000
+  - Name: Freeway Join Road
+    gameObject: {fileID: 1084658471737399040, guid: a31e194e40411d34194faee763438271, type: 3}
+    Price: 300000
+  - Name: Freeway Join Road 1
+    gameObject: {fileID: 1084658471737399040, guid: dcd9999f7a648674197eabf5152d543b, type: 3}
+    Price: 300000
+  - Name: Freeway S-Curve
+    gameObject: {fileID: 5325764755837594897, guid: f53cd3f5c4494aa4d95e5cbb228aeef9, type: 3}
+    Price: 500000
+  - Name: Freeway Cross Freeway
+    gameObject: {fileID: 9179225543804852760, guid: f68ebc279b345f14eae09eae11282ec8, type: 3}
+    Price: 500000
+  - Name: Freeway Cross Highway
+    gameObject: {fileID: 6580115163330186454, guid: b4570e1985475024582fa3775da5827f, type: 3}
+    Price: 1000000
+  - Name: Freeway Cross Highway 1
+    gameObject: {fileID: 6580115163330186454, guid: 9c9f23c0024e7414d84ab2994a326a3c, type: 3}
+    Price: 1000000
+  - Name: Freeway Cross Road
+    gameObject: {fileID: 6636616064350758606, guid: 03228d6c435570b409e9d54672629d93, type: 3}
+    Price: 1000000
+  - Name: Freeway Cross Road 1
+    gameObject: {fileID: 6636616064350758606, guid: 9b9afd0dfaa332f4cbcaaa3b849bde13, type: 3}
+    Price: 1000000
+  - Name: Freeway Cross Curve 1
+    gameObject: {fileID: 7349965398987927969, guid: ad02250bd6c06124d8d889ad6590bd35, type: 3}
+    Price: 1000000
+  - Name: Freeway Cross Curve 2
+    gameObject: {fileID: 7281682378919320192, guid: 869932ea420419345904ef46915062f4, type: 3}
+    Price: 1000000
+  - Name: Highway Join Highway 1
+    gameObject: {fileID: 1906112788772926858, guid: 223294a5cdaf4c449b4c6ac5041d5049, type: 3}
+    Price: 1000000
+  - Name: Highway Join Highway 2
+    gameObject: {fileID: 1120315692980828838, guid: c8aeff9d19b656742accfe1ed27d4004, type: 3}
+    Price: 1000000
+  - Name: Highway Join Highway 3
+    gameObject: {fileID: 1906112788772926858, guid: 6db02843531d93e4f8e0ea9473238f25, type: 3}
+    Price: 1000000
+  - Name: Highway Join Road
+    gameObject: {fileID: 6573850271047437605, guid: 2f36f92642753094b9c4ad2eb25ddd46, type: 3}
+    Price: 1000000
+  - Name: Highway Join Road 1
+    gameObject: {fileID: 6573850271047437605, guid: fb62fdd96ee19a0479b32b45e517b5a0, type: 3}
+    Price: 1000000
+  - Name: Parkinglot Center 1
+    gameObject: {fileID: 7417278717432573496, guid: 5c973c50d020df24687fc03499275710, type: 3}
+    Price: 500000
+  - Name: Parkinglot Center 2
+    gameObject: {fileID: 6891771229931319828, guid: 9c9ebb127d7ed904298f3c3af7dc45d1, type: 3}
+    Price: 500000
+  - Name: Parkinglot Center 3
+    gameObject: {fileID: 362826802464464504, guid: d0d8c0e1fdbfd61449df7ef7704c830e, type: 3}
+    Price: 500000
+  - Name: Parkinglot Center 4
+    gameObject: {fileID: 6891771229931319828, guid: 2650575da5106374f967f25e81f67bec, type: 3}
+    Price: 500000
+  - Name: Parkinglot Corner 1
+    gameObject: {fileID: 4707801346781224865, guid: 03dcfbc95dc3dd84bbf40333b8d0909d, type: 3}
+    Price: 500000
+  - Name: Parkinglot Corner 2
+    gameObject: {fileID: 161435579053210654, guid: 073c9d6e0e248934a811028d791d8177, type: 3}
+    Price: 500000
+  - Name: Parkinglot Corner 3
+    gameObject: {fileID: 1645566796555502476, guid: ae060e3af65604f4d9decffd3ee9733c, type: 3}
+    Price: 500000
+  - Name: Parkinglot Edge 1
+    gameObject: {fileID: 4054035191707466409, guid: 41312728840f94548a824ad52aa80dea, type: 3}
+    Price: 500000
+  - Name: Parkinglot Edge 2
+    gameObject: {fileID: 2143430052254323527, guid: fcfc33c4e0040aa4cbbf21ab4e096759, type: 3}
+    Price: 500000
+  - Name: Parkinglot Edge 3
+    gameObject: {fileID: 1955967519070917708, guid: e5582e734bd63354c8e5d1bc67e9c184, type: 3}
+    Price: 500000
+  - Name: Parkinglot Edge 4
+    gameObject: {fileID: 4026602581220411219, guid: 64a77130ba00f7b48b53dc57b18b878f, type: 3}
+    Price: 500000
+  - Name: Parkinglot Entrance
+    gameObject: {fileID: 1836562443216210902, guid: 2943d8e3db6c6ab4e91f91ce37d67dce, type: 3}
+    Price: 500000
+  - Name: Road Cross Road
+    gameObject: {fileID: 1321471016826555174, guid: 6c3f6266d14da13428f2e8f25340d744, type: 3}
+    Price: 500000
+  - Name: Road Cross SingLane
+    gameObject: {fileID: 4855096044029910577, guid: 96db3ffe52fe0d3408f44e3ffca1f7ce, type: 3}
+    Price: 500000
+  - Name: Road Curve
+    gameObject: {fileID: 6277701310048486405, guid: f67867764f99f804e90c75da7b48a2e6, type: 3}
+    Price: 500000
+  - Name: Road Join Road
+    gameObject: {fileID: 6277701310048486405, guid: f67867764f99f804e90c75da7b48a2e6, type: 3}
+    Price: 500000
+  - Name: Road Join SingleLane
+    gameObject: {fileID: 7097104533389705147, guid: 3925dc08f2dfef14e94099fa522f238c, type: 3}
+    Price: 500000
+  - Name: SingleLane Cross SingLane
+    gameObject: {fileID: 5393030256338513820, guid: 663f1333e0fdde94b9279c74c93597a0, type: 3}
+    Price: 500000
